@@ -1,1 +1,1 @@
-# Random project developed by C/C++
+# Random Projects Developed by C/C++
